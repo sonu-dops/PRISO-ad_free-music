@@ -1,10 +1,10 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.3.3-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.3.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.3.apk)
+[![Version](https://img.shields.io/badge/version-v3.3.4-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.4.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.4.apk)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.2_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-6.17_MB-orange.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, and completely private.**
 
@@ -16,17 +16,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.3.3 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.3.apk)
+### 🚀 [**Download Priso v3.3.4 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.4.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.3.3` |
-| **File Name** | `Priso-Music-v3.3.3.apk` |
-| **Download Size** | ~6.17 MB (6,471,885 bytes) |
+| **Version** | `3.3.4` |
+| **File Name** | `Priso-Music-v3.3.4.apk` |
+| **Download Size** | ~6.17 MB (6,471,878 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `55E23D86A1F6189FBCF51BD4E52E4B9CBC25224A19BFB95459E2C77B30EA14CB` |
+| **SHA-256 Checksum** | `5B839749B906BC25244F5F40275D8C9FB8C33A1887AF4323BACAFFB7CA200EE7` |
 
 ---
 
