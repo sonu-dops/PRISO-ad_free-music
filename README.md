@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.2.0-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.2.0.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.2.0.apk)
+[![Version](https://img.shields.io/badge/version-v3.3.0-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.0.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.0.apk)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
 [![Size](https://img.shields.io/badge/size-6.2_MB-orange.svg)](#)
@@ -16,17 +16,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.2.0 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.2.0.apk)
+### 🚀 [**Download Priso v3.3.0 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.0.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.2.0` |
-| **File Name** | `Priso-Music-v3.2.0.apk` |
-| **Download Size** | ~6.17 MB (6,470,728 bytes) |
+| **Version** | `3.3.0` |
+| **File Name** | `Priso-Music-v3.3.0.apk` |
+| **Download Size** | ~6.17 MB (6,471,639 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `DE05BD2F4105DBB4A20F148DA14E9C206314B0EAB1BE30B131AD48B3CDF3784B` |
+| **SHA-256 Checksum** | `8BFFF245580C0E3C4887F302F48A4E14F5D3EBD45C1C305CC340781A1FA99096` |
 
 ---
 
@@ -61,10 +61,10 @@ Click the link below to download the latest official release APK directly:
 Follow these simple steps to install Priso on your device:
 
 1. **Download the APK**:
-   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.2.0.apk) to save `Priso-Music-v3.2.0.apk` to your phone.
+   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.0.apk) to save `Priso-Music-v3.3.0.apk` to your phone.
 
 2. **Open the File**:
-   Once downloaded, pull down your notification tray and tap on `Priso-Music-v3.2.0.apk` (or open it from your phone's **Downloads** folder).
+   Once downloaded, pull down your notification tray and tap on `Priso-Music-v3.3.0.apk` (or open it from your phone's **Downloads** folder).
 
 3. **Allow Installation**:
    - If Android prompts with *"For your security, your phone is not allowed to install unknown apps from this source"*:
