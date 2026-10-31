@@ -1,10 +1,10 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.3.6-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.6.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.6.apk)
+[![Version](https://img.shields.io/badge/version-v3.4.0-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.0.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.0.apk)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.17_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-7.14_MB-orange.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, and completely private.**
 
@@ -16,17 +16,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.3.6 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.3.6.apk)
+### 🚀 [**Download Priso v3.4.0 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.0.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.3.6` |
-| **File Name** | `Priso-Music-v3.3.6.apk` |
-| **Download Size** | ~6.17 MB (6,472,459 bytes) |
+| **Version** | `3.4.0` |
+| **File Name** | `Priso-Music-v3.4.0.apk` |
+| **Download Size** | ~7.14 MB (7,490,300 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `6AB0C8CDE5D37BB35628E4387DC6AE755FBEB86F0B3CCDCD547679B420950D10` |
+| **SHA-256 Checksum** | `1532CD74365E6C71F8ADC102375073A0CBE945371A13EEBCA7CD6D0DFA3440FE` |
 
 ---
 
