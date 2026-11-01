@@ -1,8 +1,8 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.4.8-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](https://www.virustotal.com/gui/file/2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1)
+[![Version](https://img.shields.io/badge/version-v3.4.9-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.9.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.9.apk)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](https://www.virustotal.com/gui/file/38e2ecced6504ac1453e83254eb15b5ab1048af34566a35b6cf09cbe4cd74716)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
 [![Size](https://img.shields.io/badge/size-6.21_MB-orange.svg)](#)
@@ -18,18 +18,18 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.4.8 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk)
+### 🚀 [**Download Priso v3.4.9 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.9.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.4.8` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.4.8.apk` |
-| **Download Size** | ~6.21 MB (6,519,316 bytes) |
+| **Version** | `3.4.9` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.4.9.apk` |
+| **Download Size** | ~6.21 MB (6,519,848 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `2C28EDFCD4A4632B50E5A2AAA30203254EAA445A8BDDADB6CAA7B1C2D87CDFF1` |
-| **VirusTotal Verification** | [Scan Report (Clean / 0 Detections)](https://www.virustotal.com/gui/file/2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1) |
+| **SHA-256 Checksum** | `38E2ECCED6504AC1453E83254EB15B5AB1048AF34566A35B6CF09CBE4CD74716` |
+| **VirusTotal Verification** | [Scan Report (Clean / 0 Detections)](https://www.virustotal.com/gui/file/38e2ecced6504ac1453e83254eb15b5ab1048af34566a35b6cf09cbe4cd74716) |
 
 ---
 
@@ -84,46 +84,47 @@ This word-of-mouth referral model was famously pioneered by early Google Pay (Te
 
 ## 🔒 Verification & VirusTotal Guarantee
 
-You can independently verify the cryptographic integrity and safety of `Priso-Music-v3.4.8.apk` before installing:
+You can independently verify the cryptographic integrity and safety of `Priso-Music-v3.4.9.apk` before installing:
 
 ### Verify Checksum Locally (PowerShell):
 ```powershell
-Get-FileHash -Algorithm SHA256 .\Priso-Music-v3.4.8.apk
-# Must output: 2C28EDFCD4A4632B50E5A2AAA30203254EAA445A8BDDADB6CAA7B1C2D87CDFF1
+Get-FileHash -Algorithm SHA256 .\Priso-Music-v3.4.9.apk
+# Must output: 38E2ECCED6504AC1453E83254EB15B5AB1048AF34566A35B6CF09CBE4CD74716
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
-sha256sum Priso-Music-v3.4.8.apk
-# Must output: 2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1
+sha256sum Priso-Music-v3.4.9.apk
+# Must output: 38e2ecced6504ac1453e83254eb15b5ab1048af34566a35b6cf09cbe4cd74716
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
 
 ---
 
-## 🌟 What's New in v3.4.8
+## 🌟 What's New in v3.4.9
 
-### 🛡️ 1. Validated Lean-Client Architecture & Ultra-Fast Streaming
-- Streamlined thin-client audio routing with zero ad SDKs and zero telemetry overhead.
-- Validated clean VirusTotal verification report (0/70 detections).
+### 📱 1. Mobile Header & Responsive Navigation Overhaul
+- **Fixed Settings Button Accessibility**: Solved top bar layout crowding on mobile screens. Compacted action tags (`Connect`, `₹100`) and assigned dedicated, persistent dimensions so the **Settings gear icon is always 100% visible and accessible** on any screen size (even 360px width).
+- **Smooth Visual Balance**: Refined icon padding and micro-borders for one-tap access to Settings, Profile, Referral Wallet, and Partner Space.
 
-### 🎁 2. Share & Earn Real Cash Referral Engine
-- **Unique Referral Code**: Automatically assigned to every registered user.
-- **₹15 Real Cash per Invite**: Earn ₹15 instantly whenever a friend signs up through your invite link.
-- **Instant UPI Cashout at ₹100**: Withdraw earnings directly to your UPI ID (PhonePe, Google Pay, Paytm) within 24 hours.
-- **Viral Web Acquisition Funnel**: High-converting web portal showcasing 100% Ad-Free Music, Private Couple Chat, Real-Time Movie Co-Watching, Couple Games, and Live Shared Drawing Canvas.
+### 🎁 2. Robust Referral Code Generation & Persistence
+- **Unique Deterministic Referral Codes**: Fixed static `PRISO` code fallback. Each user now automatically receives and retains their own unique `PRISO-XXXXX` referral code, backed by secure local caching and resilient server identity resolution.
+- **₹15 per Referral & ₹100 UPI Payouts**: Real cash incentives for word-of-mouth growth with dedicated UPI cashout requests processed directly through the admin console.
 
-### 🧠 3. Spotify & YouTube Music-Grade Addictive Recommendation Engine
+### ⚡ 3. Instant Over-The-Air (OTA) Hot-Patching
+- **Real-Time Synchronized OTA Updates**: v3.4.9 hot-patch is published to the Render DynamoDB registry. Existing app users automatically receive the updated navigation layout and referral features over the air without requiring manual APK reinstallation.
+
+### 🧠 4. Spotify & YouTube Music-Grade Addictive Recommendation Engine
 - **Markov Vibe Transition Flow**: Classifies every track into acoustic vibe matrices (energy, valence, tempo, acousticness) and dynamically sorts incoming recommendations to preserve the listener's flow state without jarring genre shifts.
 - **Dynamic Real-Time Affinity Tuning**: Automatically scores user interactions (song completions increase artist/vibe affinity; early skips decrease repeat frequency) so recommendations become more pinpoint-perfect with every song you play.
 - **Infinite Smart Auto-Queue**: When your playlist or album reaches the end, Priso seamlessly calculates and replenishes the queue with top-matching tracks so the music never stops.
 
-### ⚡ 4. Anticipatory Double-Buffering & Zero-Latency Gapless Playback
+### ⚡ 5. Anticipatory Double-Buffering & Zero-Latency Gapless Playback
 - **Pre-Buffering Architecture**: Begins pre-fetching and decoding the upcoming stream at 75% track progress or 15 seconds remaining.
 - **0ms Instant Transition**: Eliminates awkward silence, network lag, and buffering spinners between consecutive songs.
 
-### 📱 5. Android Home Screen & Lock Screen Interactive Widget
+### 📱 6. Android Home Screen & Lock Screen Interactive Widget
 - **Couple Sanctuary Widget**: Quick-access media controls (Play/Pause, Skip, Previous) and real-time live display of song title, artist, and cover art.
 - **Native Audio Focus Management**: Harmonized foreground service and audio focus negotiation preventing collision or stuttering between widget controls and the main app.
 - **Crash-Resilient State Persistence**: Audio session and playlist index survive background app memory purges and device reboots.
@@ -161,10 +162,10 @@ You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.v
 Follow these simple steps to install Priso on your Android device:
 
 1. **Download the APK**:
-   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk) to save `Priso-Music-v3.4.8.apk` to your phone.
+   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.9.apk) to save `Priso-Music-v3.4.9.apk` to your phone.
 
 2. **Open the File**:
-   Once downloaded, pull down your notification tray and tap on `Priso-Music-v3.4.8.apk` (or open it from your phone's **Downloads** folder in the Files app).
+   Once downloaded, pull down your notification tray and tap on `Priso-Music-v3.4.9.apk` (or open it from your phone's **Downloads** folder in the Files app).
 
 3. **Allow Installation**:
    - If Android prompts with *"For your security, your phone is not allowed to install unknown apps from this source"*:
