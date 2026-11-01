@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-v3.4.8-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk)
 [![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.4.8.apk)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](https://www.virustotal.com/gui/file/1ffe98e7816a822206ef4dd1314d5e49a84aeeccd735bb48ef720ef5ff699f90)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](https://www.virustotal.com/gui/file/2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
 [![Size](https://img.shields.io/badge/size-6.21_MB-orange.svg)](#)
@@ -28,8 +28,8 @@ Click the link below to download the latest official release APK directly:
 | **Download Size** | ~6.21 MB (6,519,316 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `1FFE98E7816A822206EF4DD1314D5E49A84AEECCD735BB48EF720EF5FF699F90` |
-| **VirusTotal Verification** | [Scan Report (Clean / 0 Detections)](https://www.virustotal.com/gui/file/1ffe98e7816a822206ef4dd1314d5e49a84aeeccd735bb48ef720ef5ff699f90) |
+| **SHA-256 Checksum** | `2C28EDFCD4A4632B50E5A2AAA30203254EAA445A8BDDADB6CAA7B1C2D87CDFF1` |
+| **VirusTotal Verification** | [Scan Report (Clean / 0 Detections)](https://www.virustotal.com/gui/file/2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1) |
 
 ---
 
@@ -89,13 +89,13 @@ You can independently verify the cryptographic integrity and safety of `Priso-Mu
 ### Verify Checksum Locally (PowerShell):
 ```powershell
 Get-FileHash -Algorithm SHA256 .\Priso-Music-v3.4.8.apk
-# Must output: 1FFE98E7816A822206EF4DD1314D5E49A84AEECCD735BB48EF720EF5FF699F90
+# Must output: 2C28EDFCD4A4632B50E5A2AAA30203254EAA445A8BDDADB6CAA7B1C2D87CDFF1
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
 sha256sum Priso-Music-v3.4.8.apk
-# Must output: 1ffe98e7816a822206ef4dd1314d5e49a84aeeccd735bb48ef720ef5ff699f90
+# Must output: 2c28edfcd4a4632b50e5a2aaa30203254eaa445a8bddadb6caa7b1c2d87cdff1
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
