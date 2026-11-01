@@ -49,6 +49,12 @@ Click the link below to download the latest official release APK directly:
 ### 🔔 4. Clean Notification Architecture
 - Removed all intrusive hardcoded startup notifications. Notification dispatch is strictly managed on-demand via the Admin Portal.
 
+### 🎁 5. Share & Earn Real Cash (₹15 / Friend • 24h UPI Payout)
+- **Unique Referral Code**: Automatically assigned to every registered user.
+- **₹15 Real Cash per Invite**: Earn ₹15 instantly whenever a friend signs up through your invite link.
+- **Instant UPI Cashout at ₹100**: Withdraw earnings directly to your UPI ID (PhonePe, Google Pay, Paytm) within 24 hours.
+- **Viral Web Acquisition Funnel**: High-converting web portal showcasing 100% Ad-Free Music, Private Couple Chat, Real-Time Movie Co-Watching, Couple Games, and Live Shared Drawing Canvas.
+
 ---
 
 ## ✨ Core Features
