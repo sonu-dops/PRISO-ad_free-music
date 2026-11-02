@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.1-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.2-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
@@ -18,17 +18,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.1 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
+### 🚀 [**Download Priso v3.5.2 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.1` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.5.1.apk` |
-| **Download Size** | ~6.22 MB (6,529,456 bytes) |
+| **Version** | `3.5.2` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.5.2.apk` |
+| **Download Size** | ~6.22 MB (6,529,479 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `C7F117E0A42748CAE645992E111A7D20A94571E885EA98CC64FCA6D57F9B427E` |
+| **SHA-256 Checksum** | `D7BACBEC90581132815E167804E03EADB6F171CFA578B38566BDA2091CA63921` |
 
 ---
 
