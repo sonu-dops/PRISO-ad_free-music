@@ -25,10 +25,10 @@ Click the link below to download the latest official release APK directly:
 | **App Name** | Priso |
 | **Version** | `3.5.5` (Latest Stable) |
 | **File Name** | `Priso-Music-v3.5.5.apk` |
-| **Download Size** | ~6.23 MB (6,537,064 bytes) |
+| **Download Size** | ~6.23 MB (6,537,464 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `ADD6B755A3BA9CA43B5299A5E24BA13FC7426D12D03F8EE6FADB2C959CCBA04A` |
+| **SHA-256 Checksum** | `1F1798ADC97C30E7C92E80FB088077B867E6F35AEBAE01B3515BF90174B15D49` |
 
 ---
 
