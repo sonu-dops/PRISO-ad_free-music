@@ -1,11 +1,11 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.2-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.3-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.22_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-6.23_MB-orange.svg)](#)
 [![Distribution](https://img.shields.io/badge/repo-Official_Binary_Release-lightgrey.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, addictively personalized, and completely private.**
@@ -18,17 +18,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.2 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.2.apk)
+### 🚀 [**Download Priso v3.5.3 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.2` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.5.2.apk` |
-| **Download Size** | ~6.22 MB (6,529,479 bytes) |
+| **Version** | `3.5.3` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.5.3.apk` |
+| **Download Size** | ~6.23 MB (6,530,793 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `D7BACBEC90581132815E167804E03EADB6F171CFA578B38566BDA2091CA63921` |
+| **SHA-256 Checksum** | `EA444975DCCD15029845C233B80D0BB575B8FDF0FC41289BC7754A68B857718F` |
 
 ---
 
