@@ -1,8 +1,8 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.0-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.0.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.0.apk)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](https://www.virustotal.com/gui/file/25bd558a57fddfc5663bd900f3fb91008fa42fe61d200d4efd813bc9ef30063f)
+[![Version](https://img.shields.io/badge/version-v3.5.1-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
 [![Size](https://img.shields.io/badge/size-6.22_MB-orange.svg)](#)
@@ -18,18 +18,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.0 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.0.apk)
+### 🚀 [**Download Priso v3.5.1 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.1.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.0` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.5.0.apk` |
-| **Download Size** | ~6.22 MB (6,529,187 bytes) |
+| **Version** | `3.5.1` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.5.1.apk` |
+| **Download Size** | ~6.22 MB (6,529,456 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `25BD558A57FDDFC5663BD900F3FB91008FA42FE61D200D4EFD813BC9EF30063F` |
-| **VirusTotal Verification** | [Scan Report (Clean / 0 Detections)](https://www.virustotal.com/gui/file/25bd558a57fddfc5663bd900f3fb91008fa42fe61d200d4efd813bc9ef30063f) |
+| **SHA-256 Checksum** | `C7F117E0A42748CAE645992E111A7D20A94571E885EA98CC64FCA6D57F9B427E` |
 
 ---
 
