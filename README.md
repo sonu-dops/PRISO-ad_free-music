@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.3-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.4-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
@@ -18,17 +18,17 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.3 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.3.apk)
+### 🚀 [**Download Priso v3.5.4 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.3` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.5.3.apk` |
-| **Download Size** | ~6.23 MB (6,530,793 bytes) |
+| **Version** | `3.5.4` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.5.4.apk` |
+| **Download Size** | ~6.23 MB (6,531,373 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `EA444975DCCD15029845C233B80D0BB575B8FDF0FC41289BC7754A68B857718F` |
+| **SHA-256 Checksum** | `D601D6A848EE25C685B6E56F96B3FAF4931909807F5B64D88664107D9A14AF11` |
 
 ---
 
