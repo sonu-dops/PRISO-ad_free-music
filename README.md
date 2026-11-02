@@ -1,10 +1,10 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.4-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.5-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.5.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.5.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
-[![Privacy](https://img.shields.io/badge/privacy-End--to--End_Encrypted-success.svg)](#)
+[![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
 [![Size](https://img.shields.io/badge/size-6.23_MB-orange.svg)](#)
 [![Distribution](https://img.shields.io/badge/repo-Official_Binary_Release-lightgrey.svg)](#)
 
@@ -18,17 +18,28 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.4 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.4.apk)
+### 🚀 [**Download Priso v3.5.5 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-Music-v3.5.5.apk)
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.4` (Latest Stable) |
-| **File Name** | `Priso-Music-v3.5.4.apk` |
-| **Download Size** | ~6.23 MB (6,531,373 bytes) |
+| **Version** | `3.5.5` (Latest Stable) |
+| **File Name** | `Priso-Music-v3.5.5.apk` |
+| **Download Size** | ~6.23 MB (6,537,064 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `D601D6A848EE25C685B6E56F96B3FAF4931909807F5B64D88664107D9A14AF11` |
+| **SHA-256 Checksum** | `ADD6B755A3BA9CA43B5299A5E24BA13FC7426D12D03F8EE6FADB2C959CCBA04A` |
+
+---
+
+### 🌟 What's New in v3.5.5 (Master Transformation Release)
+- **🔍 In-Chat Message Search**: Instant keyword search inside chat conversations with match counter (`2 of 5`), previous/next navigation buttons, and auto-scroll to highlighted message bubble.
+- **📞 Couple Call History & Logs**: Dedicated call logs modal tracking audio & video calls with duration, timestamps, completed/missed/declined statuses, and one-tap quick callback.
+- **⚙️ Redesigned Sanctuary Settings**: Clean 4-segment organization (`Profile`, `Privacy & Security`, `Alerts & Sounds`, `Data & Storage`) for fast navigation.
+- **📦 GDPR Data Portability Export**: One-tap export of entire shared couple history (profile, chat, memories, media links, calendar dates, call logs) as a clean JSON archive.
+- **🔒 Truthful Security Transparency**: Accurate cryptographic architecture disclosure (DTLS-SRTP P2P WebRTC call encryption, TLS 1.3 in-transit, AES-256 at rest, zero ad trackers).
+- **🛡️ Custom Account Deletion Modal**: Replaced browser `confirm()` with high-contrast safety modal requiring typed confirmation (`DELETE`) to prevent accidental data loss.
+- **🧹 Cache Manager & Haptic/Sound Tester**: Instantly test device haptic motors and sound synthesizer, and clear temporary image/arcade cache without unpairing.
 
 ---
 
