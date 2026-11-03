@@ -1,0 +1,10 @@
+{
+  "activeUrl": "https://priso.onrender.com/api",
+  "socketUrl": "https://priso.onrender.com",
+  "fallbackUrls": [
+    "https://priso.onrender.com/api"
+  ],
+  "version": "3.5.21",
+  "updatedAt": "2026-11-03T17:00:00Z",
+  "notes": "Dynamic Cloud Endpoint for Priso. Update activeUrl here to switch backend without reinstalling APK."
+}
