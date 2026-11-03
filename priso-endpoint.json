@@ -2,7 +2,7 @@
   "activeUrl": "https://priso-backend.onrender.com/api",
   "socketUrl": "https://priso-backend.onrender.com",
   "fallbackUrls": [
-    "https://priso.onrender.com/api"
+    "https://priso-backend.onrender.com/api"
   ],
   "version": "3.5.21",
   "updatedAt": "2026-11-03T17:17:00Z",
