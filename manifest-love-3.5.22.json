@@ -3,11 +3,11 @@
   "version": "3.5.22",
   "bundleFileName": "priso-bundle-love-3.5.22.zip",
   "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.22.zip",
-  "sizeBytes": 572399,
-  "checksum": "6b06c32270ae12ddc4acf8f263ebcc87f2c5023278d700eec822966993c3136c",
+  "sizeBytes": 572440,
+  "checksum": "922244c11939c585a40fb0e2d0472ea2e76d9639c3458c3560541049d47be501",
   "bundleUrl": "https://priso.onrender.com/api/ota/bundles/priso-bundle-love-3.5.22.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
   "releaseNotes": "Priso Couples v3.5.22: Universal music streaming, Google account sync, and local-first hardware acceleration.",
-  "generatedAt": "2026-11-04T12:32:38.874Z"
+  "generatedAt": "2026-11-04T12:44:07.648Z"
 }
