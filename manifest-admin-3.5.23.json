@@ -1,0 +1,13 @@
+{
+  "app": "admin",
+  "version": "3.5.23",
+  "bundleFileName": "priso-bundle-admin-3.5.23.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-admin-3.5.23.zip",
+  "sizeBytes": 523955,
+  "checksum": "6addef36fa680a3c383271a157bb978fdb81ef8c6e5a510a8d0865e54978d93e",
+  "bundleUrl": "https://priso.onrender.com/api/ota/bundles/priso-bundle-admin-3.5.23.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Sentinel Admin v3.5.23: Render Cloud cost center, live device fleet telemetry, and resilient media audit.",
+  "generatedAt": "2026-11-04T13:37:48.811Z"
+}
