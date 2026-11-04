@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.28",
+  "bundleFileName": "priso-bundle-3.5.28.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.28.zip",
+  "sizeBytes": 576464,
+  "checksum": "f6157b2976973761940ceb35366f3f6b734d907408d8692104891bbb5979a385",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.28.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.28: Removed intrusive floating OTA update banner, reinforced 100% silent background updates, and secured HTTPS CDN downloads.",
+  "generatedAt": "2026-11-04T20:18:30.668Z"
+}
