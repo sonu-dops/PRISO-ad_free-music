@@ -1,0 +1,13 @@
+{
+  "app": "admin",
+  "version": "3.5.26",
+  "bundleFileName": "priso-bundle-admin-3.5.26.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-admin-3.5.26.zip",
+  "sizeBytes": 523823,
+  "checksum": "5d98a19b369198492815e0fa5415eaf084abec21a42c5fea5a0c2e354a8b0ae5",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-admin-3.5.26.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Sentinel Admin v3.5.26: Removed intrusive floating OTA update banner and secured direct HTTPS bundle delivery.",
+  "generatedAt": "2026-11-04T15:34:04.285Z"
+}
