@@ -2,3 +2,9 @@
 .DS_Store
 Thumbs.db
 *.tmp
+
+# STRICT SECURITY: Never push admin APKs or admin bundles to public distribution repo
+*admin*.apk
+*Admin*.apk
+*admin*.zip
+*manifest-admin*
