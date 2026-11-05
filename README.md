@@ -5,7 +5,7 @@
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.28_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-6.29_MB-orange.svg)](#)
 [![Distribution](https://img.shields.io/badge/repo-Official_Binary_Release-lightgrey.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, addictively personalized, and completely private.**
@@ -26,19 +26,20 @@ Click the link below to download the latest official release APK directly:
 | **App Name** | Priso |
 | **Version** | `3.5.41` (Latest Stable) |
 | **File Name** | `Priso-v3.5.41.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.28 MB (6,587,656 bytes) |
+| **Download Size** | ~6.29 MB (6,601,867 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `6BEFDD1B0432CC6964EEA8BFE2495BBBCD84769C8602D3B1CCB1820D4D6A104A` |
+| **SHA-256 Checksum** | `8982334947B98DE2518634E365E8B522FEB8113CB1D450C1D4F9D0D3F80F92C9` |
 
 ---
 
 ### 🌟 What's New in v3.5.41
+- **🛡️ Anti-Tamper & Cryptographic Integrity**: Native APK signature verification preventing unauthorized modifications.
 - **🎧 High-Fidelity Audio Buffering**: Faster initial stream startup and reduced buffering on unstable connections.
 - **🔋 Battery & Memory Optimization**: Reduced background memory footprint to under 45 MB during extended playback.
 - **📱 Lock Screen Media Controls**: Improved response times for lock screen play, pause, and track skip actions.
 - **⚡ Instant Silent Background Updates**: Seamless over-the-air performance updates without app interruptions.
-- **🔒 Enhanced P2P Privacy**: Hardened DTLS-SRTP encryption for real-time peer-to-peer audio and video calls.
+- **🔒 Hardened P2P Privacy**: DTLS-SRTP encrypted peer-to-peer audio and video calls.
 
 ---
 
@@ -80,13 +81,13 @@ You can independently verify the cryptographic integrity and safety of `Priso-v3
 ### Verify Checksum Locally (PowerShell):
 ```powershell
 Get-FileHash -Algorithm SHA256 .\Priso-v3.5.41.apk
-# Must output: 6BEFDD1B0432CC6964EEA8BFE2495BBBCD84769C8602D3B1CCB1820D4D6A104A
+# Must output: 8982334947B98DE2518634E365E8B522FEB8113CB1D450C1D4F9D0D3F80F92C9
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
 sha256sum Priso-v3.5.41.apk
-# Must output: 6befdd1b0432cc6964eea8bfe2495bbbcd84769c8602d3b1ccb1820d4d6a104a
+# Must output: 8982334947b98de2518634e365e8b522feb8113cb1d450c1d4f9d0d3f80f92c9
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
@@ -114,7 +115,7 @@ You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.v
 - Listen together, share vibes, and preserve cherished memories in a distraction-free environment.
 
 ### ⚡ Ultra-Lightweight & Battery Efficient
-- Designed to consume minimal device storage (~6.28 MB download size).
+- Designed to consume minimal device storage (~6.29 MB download size).
 - Optimized audio stream decoding engineered to maximize battery life during extended listening sessions.
 
 ---
