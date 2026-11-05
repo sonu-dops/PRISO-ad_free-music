@@ -3,11 +3,11 @@
   "version": "3.5.41",
   "bundleFileName": "priso-bundle-love-3.5.41.zip",
   "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.41.zip",
-  "sizeBytes": 589182,
-  "checksum": "22ede14447396cd5e4e1d3031d556c05815a46a22330bf91dc0f89ce3d9f562b",
+  "sizeBytes": 589522,
+  "checksum": "3137afbc8a9c75384251b2203459985b539e782bdb70ab0e0e185fbcf1414fa5",
   "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.41.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.41: Removed intrusive floating OTA update banner, reinforced 100% silent background updates, and secured HTTPS CDN downloads.",
-  "generatedAt": "2026-11-05T20:53:44.645Z"
+  "releaseNotes": "Priso Couples v3.5.41: Updated un-sloped admin UI, live Razorpay donation tracking, and instant reconciliation.",
+  "generatedAt": "2026-11-05T21:11:00.000Z"
 }
