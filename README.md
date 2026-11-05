@@ -34,12 +34,11 @@ Click the link below to download the latest official release APK directly:
 ---
 
 ### 🌟 What's New in v3.5.41
-- **💳 Razorpay Direct UPI & Instant Verification**: Direct UPI intent flow with instant payment reconciliation and automatic Play Store Developer Fund tallying.
-- **✨ Unslopped Admin Control Center**: Refined, quiet graphite interface with segmented tabs, fast backer auditing, and real-time live synchronization.
-- **📢 Custom Admin Broadcast Center**: On-demand push notifications for milestones, donations, romantic video-call interactions (kisses, pillow fights), and feature updates.
-- **⚡ Instant OTA Hot-Reload**: Seamless over-the-air hot updates directly from the official release CDN without requiring full manual reinstallation.
-- **📞 Couple Call History & Logs**: Dedicated call logs tracking audio & video calls with duration, timestamps, and one-tap quick callback.
-- **🔒 Truthful Security Transparency**: Accurate cryptographic architecture disclosure (DTLS-SRTP P2P WebRTC call encryption, TLS 1.3 in-transit, AES-256 at rest, zero ad trackers).
+- **🎧 High-Fidelity Audio Buffering**: Faster initial stream startup and reduced buffering on unstable connections.
+- **🔋 Battery & Memory Optimization**: Reduced background memory footprint to under 45 MB during extended playback.
+- **📱 Lock Screen Media Controls**: Improved response times for lock screen play, pause, and track skip actions.
+- **⚡ Instant Silent Background Updates**: Seamless over-the-air performance updates without app interruptions.
+- **🔒 Enhanced P2P Privacy**: Hardened DTLS-SRTP encryption for real-time peer-to-peer audio and video calls.
 
 ---
 
@@ -59,23 +58,18 @@ Mainstream streaming apps like Spotify, YouTube Music, and Apple Music have ball
 │                 PRISO LEAN ARCHITECTURE (6.2MB)             │
 │ ✅ ZERO Ad SDKs & ZERO Commercial Spyware Trackers          │
 │ ✅ Native Android ExoPlayer MediaSession audio core         │
-│ ✅ Heavy Compute Offloaded to Cloud (Render Backend API)    │
-│    • Markov Vibe Transition Engine runs server-side         │
-│    • Real-time stream resolution & metadata search          │
+│ ✅ Cloud-Offloaded Stream Resolution & Indexing             │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ### 1. Zero Advertising SDKs & Zero Spyware
-Commercial apps bundle dozens of multi-megabyte ad exchange SDKs (Google AdMob, Unity, AppLovin, ironSource) and intrusive tracking frameworks (Adjust, AppsFlyer, Braze, Mixpanel) to track your every click and serve audio advertisements. **Priso has ZERO advertising SDKs and ZERO tracker binaries**, eliminating over 60 MB of bloat instantly.
+Commercial apps bundle dozens of advertising SDKs and tracking frameworks to track clicks and serve audio ads. **Priso has ZERO advertising SDKs and ZERO tracker binaries**, eliminating over 60 MB of bloat.
 
-### 2. Cloud-Offloaded Intelligence (Thin-Client Architecture)
-Instead of forcing your phone to download gigabytes of offline recommendation matrices, Priso's **Markov Vibe Transition Flow**, dynamic affinity scoring, and instant catalog indexing are calculated in real time on our high-performance cloud backend. The client APK remains a lightning-fast, featherweight playback engine.
+### 2. Native Android Media Services
+Priso directly interfaces with Android's native `ExoPlayer` and `MediaSession` APIs for foreground audio services, system lock screen controls, and anticipatory buffering without redundant third-party libraries.
 
-### 3. Native Android Media Services
-Priso directly interfaces with Android's native `ExoPlayer` and `MediaSession` APIs for foreground audio services, system lock screen controls, and anticipatory double-buffering without redundant third-party media libraries.
-
-### 4. Official Binary Release Repository Notice
-This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary release distribution mirror**. Similar to popular independent projects (such as ReVanced, SpotX, and ViMusic release mirrors), we distribute verified standalone release binaries here for 1-click downloads without requiring end-users to clone heavy internal monorepo source trees.
+### 3. Dedicated Distribution Mirror
+This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary release mirror** for direct 1-click APK downloads.
 
 ---
 
@@ -96,15 +90,6 @@ sha256sum Priso-v3.5.41.apk
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
-
----
-
-## 🌟 Google Play Store Developer Launch Fund
-
-- **Help Publish on Google Play**: Community crowdfunding goal capped strictly at **₹2,500 INR** ($25 USD Google Play Console developer registration fee).
-- **Real-Time Live Progress Meter**: Shows exact total raised so far and live countdown of remaining funds needed.
-- **Strict Anti-Overcharge Capping**: Automatic ceiling prevents donations once the ₹2,500 target is reached.
-- **Direct UPI & Razorpay Support**: Pay seamlessly via PhonePe, Google Pay, Paytm, BHIM, Cards, or NetBanking.
 
 ---
 

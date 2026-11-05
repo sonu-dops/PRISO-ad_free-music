@@ -8,6 +8,6 @@
   "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.41.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.41: Razorpay UPI direct intent, emotional donation notifications, and un-sloped admin UI.",
-  "generatedAt": "2026-11-05T21:18:00.000Z"
+  "releaseNotes": "Priso v3.5.41: High-fidelity audio playback enhancements, reduced memory usage, and background streaming optimizations.",
+  "generatedAt": "2026-11-05T21:20:00.000Z"
 }
