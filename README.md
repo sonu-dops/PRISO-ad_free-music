@@ -26,10 +26,10 @@ Click the link below to download the latest official release APK directly:
 | **App Name** | Priso |
 | **Version** | `3.5.47` (Latest Stable) |
 | **File Name** | `Priso-v3.5.47.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.30 MB (6,606,972 bytes) |
+| **Download Size** | ~6.30 MB (6,607,452 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `A2E71EB78971DE47647D204E76F8FDBD903EE40D31D6D76ED55506EDBBD11DFC` |
+| **SHA-256 Checksum** | `81CCB0D9D1343C39590FD8541F367243F10C09804F6EBF6E3150729BB7600E3A` |
 
 ---
 
@@ -40,6 +40,7 @@ Click the link below to download the latest official release APK directly:
 - **❄️ Zero-Heating Thermal Optimization**: Dropped offscreen video decoding down to an ultra-efficient 1px audio-only stream. Released battery-draining `HIGH_PERF` Wi-Fi locks on pause, keeping your device cool during extended listening.
 - **📉 95% Mobile Data Bandwidth Reduction**: Eliminates hidden 1080p video bandwidth consumption and disables speculative full-track preloads on skips, using $\sim$1 MB/min instead of 25 MB/min.
 - **⚡ High-Speed Cloud Node (`priso-server.onrender.com`)**: Upgraded to a dedicated live server with native gzip response compression and sub-60s dynamic endpoint switching.
+- **🔑 Smooth Direct Google Sign-In**: Connected native OAuth bridge to `priso-server.onrender.com/native-bridge` via Chrome Custom Tabs for instant, seamless login.
 - **🔒 Hardened Lock Screen Privacy**: Strict system lock authentication (PIN/fingerprint) required before opening private couple spaces from notifications.
 
 ---
