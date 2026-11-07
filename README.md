@@ -1,11 +1,11 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.43-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.43.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.43.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.47-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.29_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-6.30_MB-orange.svg)](#)
 [![Distribution](https://img.shields.io/badge/repo-Official_Binary_Release-lightgrey.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, addictively personalized, and completely private.**
@@ -18,32 +18,33 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.43 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.43.apk)
+### 🚀 [**Download Priso v3.5.47 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
 *(Alternative mirror: [**priso-latest.apk**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/priso-latest.apk))*
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.43` (Latest Stable) |
-| **File Name** | `Priso-v3.5.43.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.29 MB (6,601,867 bytes) |
+| **Version** | `3.5.47` (Latest Stable) |
+| **File Name** | `Priso-v3.5.47.apk` / `priso-latest.apk` |
+| **Download Size** | ~6.30 MB (6,606,972 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `5D87875609ED22E4D9101D6DB79F954BC16974D0C84EB309DD1A406C298629C9` |
+| **SHA-256 Checksum** | `A2E71EB78971DE47647D204E76F8FDBD903EE40D31D6D76ED55506EDBBD11DFC` |
 
 ---
 
-### 🌟 What's New in v3.5.43
-- **🔒 Hardened Lock Screen Privacy & Protection**: Fixed notification click handling on locked devices. Tapping any notification (message, music, pulse, or call) now strictly enforces Android lock screen security (PIN, pattern, password, or biometric unlock) before granting access into the app.
-- **🛡️ Strict Keyguard Enforcement**: Removed unnecessary keyguard bypass attributes and permissions, safeguarding private couple chats and personal content from unauthorized lock screen access.
-- **🎵 Unslopped Intimate Music Player**: Quiet obsidian & graphite player chrome, elevated high-contrast playback controls, and distraction-free audio streaming.
-- **✨ Kindred Artist Aesthetic Clusters**: Algorithmic radio recommendations with genre affinity clustering and anti-saturation diversity damping.
-- **⚡ Sub-5ms Radio Caching**: Instantaneous recommendation loading with background stream pre-warming.
-- **🔒 Cryptographic Integrity & Zero Trackers**: Uncompromised zero-ad playback with verified SHA-256 binary integrity and clean VirusTotal clearance.
+### 🌟 What's New in v3.5.47
+- **🎨 Spotify-Grade Mobile Music Home**: Sleek card layout featuring contextual greetings (*Good morning / afternoon / evening*), circular favorite artist avatars, 2x2 recent tracks grid, scrollable "Made for You" discovery carousels, and persistent mini-player styled in Priso obsidian-rose.
+- **📱 System Notification Bar Playback Controls**: Native Android foreground media service with lock screen and notification shade controls (*Play, Pause, Next, Previous, Stop*) that persist while switching between apps.
+- **⏱️ Exact Playback Position Resume**: Pausing or closing the app preserves your exact timestamp. Music resumes right from where you stopped, with cached local/cloud taste telemetry.
+- **❄️ Zero-Heating Thermal Optimization**: Dropped offscreen video decoding down to an ultra-efficient 1px audio-only stream. Released battery-draining `HIGH_PERF` Wi-Fi locks on pause, keeping your device cool during extended listening.
+- **📉 95% Mobile Data Bandwidth Reduction**: Eliminates hidden 1080p video bandwidth consumption and disables speculative full-track preloads on skips, using $\sim$1 MB/min instead of 25 MB/min.
+- **⚡ High-Speed Cloud Node (`priso-server.onrender.com`)**: Upgraded to a dedicated live server with native gzip response compression and sub-60s dynamic endpoint switching.
+- **🔒 Hardened Lock Screen Privacy**: Strict system lock authentication (PIN/fingerprint) required before opening private couple spaces from notifications.
 
 ---
 
-## 🛡️ Architecture & Security: Why PRISO is only 6.2 MB
+## 🛡️ Architecture & Security: Why PRISO is only 6.3 MB
 
 Mainstream streaming apps like Spotify, YouTube Music, and Apple Music have ballooned to **80 MB – 150 MB+**. Here is why Priso delivers a richer, ad-free experience in a fraction of that size:
 
@@ -56,10 +57,10 @@ Mainstream streaming apps like Spotify, YouTube Music, and Apple Music have ball
 └─────────────────────────────────────────────────────────────┘
                               VS
 ┌─────────────────────────────────────────────────────────────┐
-│                 PRISO LEAN ARCHITECTURE (6.2MB)             │
+│                 PRISO LEAN ARCHITECTURE (6.3MB)             │
 │ ✅ ZERO Ad SDKs & ZERO Commercial Spyware Trackers          │
-│ ✅ Native Android ExoPlayer MediaSession audio core         │
-│ ✅ Cloud-Offloaded Stream Resolution & Indexing             │
+│ ✅ Native Android MediaSession foreground audio core         │
+│ ✅ Cloud-Offloaded Stream Resolution & Gzip Compression     │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -67,7 +68,7 @@ Mainstream streaming apps like Spotify, YouTube Music, and Apple Music have ball
 Commercial apps bundle dozens of advertising SDKs and tracking frameworks to track clicks and serve audio ads. **Priso has ZERO advertising SDKs and ZERO tracker binaries**, eliminating over 60 MB of bloat.
 
 ### 2. Native Android Media Services
-Priso directly interfaces with Android's native `ExoPlayer` and `MediaSession` APIs for foreground audio services, system lock screen controls, and anticipatory buffering without redundant third-party libraries.
+Priso directly interfaces with Android's native `MediaSession` APIs for foreground audio services, system lock screen controls, and anticipatory buffering without redundant third-party libraries.
 
 ### 3. Dedicated Distribution Mirror
 This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary release mirror** for direct 1-click APK downloads.
@@ -76,18 +77,18 @@ This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary
 
 ## 🔒 Verification & VirusTotal Guarantee
 
-You can independently verify the cryptographic integrity and safety of `Priso-v3.5.43.apk` before installing:
+You can independently verify the cryptographic integrity and safety of `Priso-v3.5.47.apk` before installing:
 
 ### Verify Checksum Locally (PowerShell):
 ```powershell
-Get-FileHash -Algorithm SHA256 .\Priso-v3.5.43.apk
-# Must output: 5D87875609ED22E4D9101D6DB79F954BC16974D0C84EB309DD1A406C298629C9
+Get-FileHash -Algorithm SHA256 .\Priso-v3.5.47.apk
+# Must output: A2E71EB78971DE47647D204E76F8FDBD903EE40D31D6D76ED55506EDBBD11DFC
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
-sha256sum Priso-v3.5.43.apk
-# Must output: 5d87875609ed22e4d9101d6db79f954bc16974d0c84eb309dd1a406c298629c9
+sha256sum Priso-v3.5.47.apk
+# Must output: a2e71eb78971de47647d204e76f8fdbd903ee40d31d6d76ed55506edbbd11dfc
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
@@ -115,7 +116,7 @@ You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.v
 - Listen together, share vibes, and preserve cherished memories in a distraction-free environment.
 
 ### ⚡ Ultra-Lightweight & Battery Efficient
-- Designed to consume minimal device storage (~6.29 MB download size).
+- Minimal device storage footprint (~6.30 MB download size).
 - Optimized audio stream decoding engineered to maximize battery life during extended listening sessions.
 
 ---
@@ -125,10 +126,10 @@ You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.v
 Follow these simple steps to install Priso on your Android device:
 
 1. **Download the APK**:
-   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.43.apk) to save `Priso-v3.5.43.apk` to your phone.
+   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk) to save `Priso-v3.5.47.apk` to your phone.
 
 2. **Open the File**:
-   Once downloaded, pull down your notification tray and tap on `Priso-v3.5.43.apk` (or open it from your phone's **Downloads** folder in the Files app).
+   Once downloaded, pull down your notification tray and tap on `Priso-v3.5.47.apk` (or open it from your phone's **Downloads** folder in the Files app).
 
 3. **Allow Installation**:
    - If Android prompts with *"For your security, your phone is not allowed to install unknown apps from this source"*:
