@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.47-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.48-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.48.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.48.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
@@ -18,30 +18,30 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.47 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.47.apk)
+### 🚀 [**Download Priso v3.5.48 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.48.apk)
 *(Alternative mirror: [**priso-latest.apk**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/priso-latest.apk))*
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.47` (Latest Stable) |
-| **File Name** | `Priso-v3.5.47.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.30 MB (6,607,452 bytes) |
+| **Version** | `3.5.48` (Latest Stable) |
+| **File Name** | `Priso-v3.5.48.apk` / `priso-latest.apk` |
+| **Download Size** | ~6.30 MB (6,603,297 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `81CCB0D9D1343C39590FD8541F367243F10C09804F6EBF6E3150729BB7600E3A` |
+| **SHA-256 Checksum** | `63C4D478BC7C4EF498D49C0352D3180CD5859401627E5FB57C4E2CB18CE31F85` |
 
 ---
 
-### 🌟 What's New in v3.5.47
-- **🎨 Spotify-Grade Mobile Music Home**: Sleek card layout featuring contextual greetings (*Good morning / afternoon / evening*), circular favorite artist avatars, 2x2 recent tracks grid, scrollable "Made for You" discovery carousels, and persistent mini-player styled in Priso obsidian-rose.
-- **📱 System Notification Bar Playback Controls**: Native Android foreground media service with lock screen and notification shade controls (*Play, Pause, Next, Previous, Stop*) that persist while switching between apps.
-- **⏱️ Exact Playback Position Resume**: Pausing or closing the app preserves your exact timestamp. Music resumes right from where you stopped, with cached local/cloud taste telemetry.
-- **❄️ Zero-Heating Thermal Optimization**: Dropped offscreen video decoding down to an ultra-efficient 1px audio-only stream. Released battery-draining `HIGH_PERF` Wi-Fi locks on pause, keeping your device cool during extended listening.
-- **📉 95% Mobile Data Bandwidth Reduction**: Eliminates hidden 1080p video bandwidth consumption and disables speculative full-track preloads on skips, using $\sim$1 MB/min instead of 25 MB/min.
-- **⚡ High-Speed Cloud Node (`priso-server.onrender.com`)**: Upgraded to a dedicated live server with native gzip response compression and sub-60s dynamic endpoint switching.
-- **🔑 Smooth Direct Google Sign-In**: Connected native OAuth bridge to `priso-server.onrender.com/native-bridge` via Chrome Custom Tabs for instant, seamless login.
-- **🔒 Hardened Lock Screen Privacy**: Strict system lock authentication (PIN/fingerprint) required before opening private couple spaces from notifications.
+### 🌟 What's New in v3.5.48
+- **🎨 Refined High-Craft UI (Unslopped)**: Completely overhauled Referral & Earn, Play Store Crowdfunding, and Couple Games Arcade surfaces with calm typography, harmonic warm palettes, and tactile line icons.
+- **🎮 Polished Games Room**: Refreshed Tic-Tac-Toe, Connect 4, This-or-That, and Prompt Wheel with harmonic wine-ink styling, smooth spring interactions, and instant real-time synchronization.
+- **⚡ Dual Love & Sentinel Admin Background OTA**: Fixed bundle routing for both the Love client and Sentinel Admin app, ensuring direct zero-latency background bundle upgrades.
+- **🎵 Spotify-Grade Mobile Music Home**: Sleek card layout featuring contextual greetings (*Good morning / afternoon / evening*), circular favorite artist avatars, 2x2 recent tracks grid, scrollable "Made for You" discovery carousels, and persistent mini-player.
+- **📱 System Notification Bar Playback Controls**: Native Android foreground media service with lock screen and notification shade controls (*Play, Pause, Next, Previous, Stop*).
+- **⏱️ Exact Playback Position Resume**: Seamless timestamp resume across app restarts and connection changes.
+- **❄️ Zero-Heating Thermal Optimization & Low Bandwidth**: 1px offscreen audio decoding, battery-efficient Wi-Fi lock release, and minimal mobile data usage.
+- **🔑 Direct Google OAuth Sign-In**: Connected native OAuth bridge via Chrome Custom Tabs for instant, seamless login.
 
 ---
 
