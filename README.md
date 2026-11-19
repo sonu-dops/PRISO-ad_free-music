@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.52-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.53-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.53.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.53.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
@@ -18,27 +18,26 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.52 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
+### 🚀 [**Download Priso v3.5.53 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.53.apk)
 *(Alternative mirror: [**priso-latest.apk**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/priso-latest.apk))*
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.52` (Latest Stable) |
-| **File Name** | `Priso-v3.5.52.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.29 MB (6,596,683 bytes) |
+| **Version** | `3.5.53` (Latest Stable) |
+| **File Name** | `Priso-v3.5.53.apk` / `priso-latest.apk` |
+| **Download Size** | ~6.29 MB (6,597,943 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `80DC5D31D3B82E7F9086D52D3339E8C111DF9457A954DD0F25A8ADDDEB6E4E0E` |
+| **SHA-256 Checksum** | `71b9a7795aed4051269d0d92f6b72fc0351a131c14e5ec63f4057dd17007f88d` |
 
 ---
 
-### 🌟 What's New in v3.5.52
-- **🚀 Modernized Cloudflare R2 + Supabase PostgreSQL**: Fully eliminated legacy Google Drive code and dependencies. All media, profile assets, and persistent vaults now run natively on Cloudflare R2 object storage and Supabase PostgreSQL with zero bloat.
+### 🌟 What's New in v3.5.53
+- **⚡ Rock-Solid Partner Pairing & Auto-Healing**: Resilient cold-start retry and auto-recovery for partner invitation generation. Eliminates transient "Failed to fetch" errors during server spin-up with automatic fallback and transparent session healing.
+- **🚀 Complete Google Drive Elimination**: 100% of relational records, user profiles, invitations, and chat message history now dual-write to Supabase PostgreSQL, while all media and audio streams live on Cloudflare R2 with cascade deletion.
+- **🔄 Silent Background OTA v3.5.53**: High-speed, seamless over-the-air bundle updates without disrupting active playback or user workflows.
 - **✨ Tactile Micro-Animations**: Enhanced tactile spring animations across the sanctuary dashboard, video call controls, chat reactions, and pairing flows.
-- **⚡ Resilient Dynamic API & Cold-Start Healing**: Enhanced network client with auto-retry and 45s cold-start grace period for seamless, fail-safe connection handling.
-- **🔄 Dual Love & Sentinel Admin Background OTA**: Fully aligned bundle routing for v3.5.52 ensuring silent, instant updates.
-- **🎨 Refined High-Craft UI (Unslopped)**: Calm typography, harmonic warm palettes, and tactile line icons across Referral, Play Store Crowdfunding, and Games Arcade surfaces.
 - **📱 System Notification Bar Playback Controls**: Native Android foreground media service with lock screen and notification shade controls (*Play, Pause, Next, Previous, Stop*).
 - **🔑 Direct Google OAuth Sign-In**: Connected native OAuth bridge via Chrome Custom Tabs for instant, seamless login.
 
@@ -77,18 +76,18 @@ This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary
 
 ## 🔒 Verification & VirusTotal Guarantee
 
-You can independently verify the cryptographic integrity and safety of `Priso-v3.5.52.apk` before installing:
+You can independently verify the cryptographic integrity and safety of `Priso-v3.5.53.apk` before installing:
 
 ### Verify Checksum Locally (PowerShell):
 ```powershell
-Get-FileHash -Algorithm SHA256 .\Priso-v3.5.52.apk
-# Must output: 80DC5D31D3B82E7F9086D52D3339E8C111DF9457A954DD0F25A8ADDDEB6E4E0E
+Get-FileHash -Algorithm SHA256 .\Priso-v3.5.53.apk
+# Must output: 71B9A7795AED4051269D0D92F6B72FC0351A131C14E5EC63F4057DD17007F88D
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
-sha256sum Priso-v3.5.52.apk
-# Must output: 80dc5d31d3b82e7f9086d52d3339e8c111df9457a954dd0f25a8adddeb6e4e0e
+sha256sum Priso-v3.5.53.apk
+# Must output: 71b9a7795aed4051269d0d92f6b72fc0351a131c14e5ec63f4057dd17007f88d
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
