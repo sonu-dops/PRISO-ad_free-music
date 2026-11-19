@@ -26,10 +26,10 @@ Click the link below to download the latest official release APK directly:
 | **App Name** | Priso |
 | **Version** | `3.5.51` (Latest Stable) |
 | **File Name** | `Priso-v3.5.51.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.30 MB (6,596,694 bytes) |
+| **Download Size** | ~6.30 MB (6,596,674 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `01F41AB491891111D91D32F74AE06A2F8CE06AA73A60622D25DA53D716B1C4C2` |
+| **SHA-256 Checksum** | `D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE` |
 
 ---
 
@@ -83,13 +83,13 @@ You can independently verify the cryptographic integrity and safety of `Priso-v3
 ### Verify Checksum Locally (PowerShell):
 ```powershell
 Get-FileHash -Algorithm SHA256 .\Priso-v3.5.51.apk
-# Must output: 01F41AB491891111D91D32F74AE06A2F8CE06AA73A60622D25DA53D716B1C4C2
+# Must output: D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
 sha256sum Priso-v3.5.51.apk
-# Must output: 01f41ab491891111d91d32f74ae06a2f8ce06aa73a60622d25da53d716b1c4c2
+# Must output: D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
