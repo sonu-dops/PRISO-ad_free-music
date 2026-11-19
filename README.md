@@ -1,7 +1,7 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.49-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.49.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.49.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.51-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
@@ -18,22 +18,22 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.49 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.49.apk)
+### 🚀 [**Download Priso v3.5.51 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
 *(Alternative mirror: [**priso-latest.apk**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/priso-latest.apk))*
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.49` (Latest Stable) |
-| **File Name** | `Priso-v3.5.49.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.30 MB (6,603,297 bytes) |
+| **Version** | `3.5.51` (Latest Stable) |
+| **File Name** | `Priso-v3.5.51.apk` / `priso-latest.apk` |
+| **Download Size** | ~6.30 MB (6,596,694 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `63C4D478BC7C4EF498D49C0352D3180CD5859401627E5FB57C4E2CB18CE31F85` |
+| **SHA-256 Checksum** | `01F41AB491891111D91D32F74AE06A2F8CE06AA73A60622D25DA53D716B1C4C2` |
 
 ---
 
-### 🌟 What's New in v3.5.49
+### 🌟 What's New in v3.5.51
 - **🎨 Refined High-Craft UI (Unslopped)**: Completely overhauled Referral & Earn, Play Store Crowdfunding, and Couple Games Arcade surfaces with calm typography, harmonic warm palettes, and tactile line icons.
 - **🎮 Polished Games Room**: Refreshed Tic-Tac-Toe, Connect 4, This-or-That, and Prompt Wheel with harmonic wine-ink styling, smooth spring interactions, and instant real-time synchronization.
 - **⚡ Dual Love & Sentinel Admin Background OTA**: Fixed bundle routing for both the Love client and Sentinel Admin app, ensuring direct zero-latency background bundle upgrades.
@@ -78,18 +78,18 @@ This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary
 
 ## 🔒 Verification & VirusTotal Guarantee
 
-You can independently verify the cryptographic integrity and safety of `Priso-v3.5.49.apk` before installing:
+You can independently verify the cryptographic integrity and safety of `Priso-v3.5.51.apk` before installing:
 
 ### Verify Checksum Locally (PowerShell):
 ```powershell
-Get-FileHash -Algorithm SHA256 .\Priso-v3.5.49.apk
-# Must output: A2E71EB78971DE47647D204E76F8FDBD903EE40D31D6D76ED55506EDBBD11DFC
+Get-FileHash -Algorithm SHA256 .\Priso-v3.5.51.apk
+# Must output: 01F41AB491891111D91D32F74AE06A2F8CE06AA73A60622D25DA53D716B1C4C2
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
-sha256sum Priso-v3.5.49.apk
-# Must output: a2e71eb78971de47647d204e76f8fdbd903ee40d31d6d76ed55506edbbd11dfc
+sha256sum Priso-v3.5.51.apk
+# Must output: 01f41ab491891111d91d32f74ae06a2f8ce06aa73a60622d25da53d716b1c4c2
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
@@ -127,10 +127,10 @@ You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.v
 Follow these simple steps to install Priso on your Android device:
 
 1. **Download the APK**:
-   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.49.apk) to save `Priso-v3.5.49.apk` to your phone.
+   Tap the [**Direct Download Link**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk) to save `Priso-v3.5.51.apk` to your phone.
 
 2. **Open the File**:
-   Once downloaded, pull down your notification tray and tap on `Priso-v3.5.49.apk` (or open it from your phone's **Downloads** folder in the Files app).
+   Once downloaded, pull down your notification tray and tap on `Priso-v3.5.51.apk` (or open it from your phone's **Downloads** folder in the Files app).
 
 3. **Allow Installation**:
    - If Android prompts with *"For your security, your phone is not allowed to install unknown apps from this source"*:
