@@ -1,11 +1,11 @@
 # 🎵 Priso — Ad-Free Music & Private Shared Space
 
-[![Version](https://img.shields.io/badge/version-v3.5.51-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
-[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
+[![Version](https://img.shields.io/badge/version-v3.5.52-blue.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
+[![Platform](https://img.shields.io/badge/platform-Android_8.0+-green.svg)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F70_Clean-brightgreen.svg)](#)
 [![Ads](https://img.shields.io/badge/ads-100%25_Ad--Free-brightgreen.svg)](#)
 [![Privacy](https://img.shields.io/badge/privacy-P2P_Encrypted_Calls-success.svg)](#)
-[![Size](https://img.shields.io/badge/size-6.30_MB-orange.svg)](#)
+[![Size](https://img.shields.io/badge/size-6.29_MB-orange.svg)](#)
 [![Distribution](https://img.shields.io/badge/repo-Official_Binary_Release-lightgrey.svg)](#)
 
 > **Experience music the way it was meant to be enjoyed — uninterrupted, crystal-clear, addictively personalized, and completely private.**
@@ -18,29 +18,28 @@ Priso is an ultra-lightweight, high-fidelity music streaming and private shared 
 
 Click the link below to download the latest official release APK directly:
 
-### 🚀 [**Download Priso v3.5.51 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.51.apk)
+### 🚀 [**Download Priso v3.5.52 APK** (Direct Download)](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/Priso-v3.5.52.apk)
 *(Alternative mirror: [**priso-latest.apk**](https://github.com/sonu-dops/PRISO-ad_free-music/raw/main/priso-latest.apk))*
 
 | Detail | Specification |
 |---|---|
 | **App Name** | Priso |
-| **Version** | `3.5.51` (Latest Stable) |
-| **File Name** | `Priso-v3.5.51.apk` / `priso-latest.apk` |
-| **Download Size** | ~6.30 MB (6,596,674 bytes) |
+| **Version** | `3.5.52` (Latest Stable) |
+| **File Name** | `Priso-v3.5.52.apk` / `priso-latest.apk` |
+| **Download Size** | ~6.29 MB (6,596,683 bytes) |
 | **Minimum OS** | Android 8.0 (Oreo) or higher |
 | **Target Architecture** | Universal (ARM64, ARMv7, x86_64) |
-| **SHA-256 Checksum** | `D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE` |
+| **SHA-256 Checksum** | `80DC5D31D3B82E7F9086D52D3339E8C111DF9457A954DD0F25A8ADDDEB6E4E0E` |
 
 ---
 
-### 🌟 What's New in v3.5.51
-- **🎨 Refined High-Craft UI (Unslopped)**: Completely overhauled Referral & Earn, Play Store Crowdfunding, and Couple Games Arcade surfaces with calm typography, harmonic warm palettes, and tactile line icons.
-- **🎮 Polished Games Room**: Refreshed Tic-Tac-Toe, Connect 4, This-or-That, and Prompt Wheel with harmonic wine-ink styling, smooth spring interactions, and instant real-time synchronization.
-- **⚡ Dual Love & Sentinel Admin Background OTA**: Fixed bundle routing for both the Love client and Sentinel Admin app, ensuring direct zero-latency background bundle upgrades.
-- **🎵 Spotify-Grade Mobile Music Home**: Sleek card layout featuring contextual greetings (*Good morning / afternoon / evening*), circular favorite artist avatars, 2x2 recent tracks grid, scrollable "Made for You" discovery carousels, and persistent mini-player.
+### 🌟 What's New in v3.5.52
+- **🚀 Modernized Cloudflare R2 + Supabase PostgreSQL**: Fully eliminated legacy Google Drive code and dependencies. All media, profile assets, and persistent vaults now run natively on Cloudflare R2 object storage and Supabase PostgreSQL with zero bloat.
+- **✨ Tactile Micro-Animations**: Enhanced tactile spring animations across the sanctuary dashboard, video call controls, chat reactions, and pairing flows.
+- **⚡ Resilient Dynamic API & Cold-Start Healing**: Enhanced network client with auto-retry and 45s cold-start grace period for seamless, fail-safe connection handling.
+- **🔄 Dual Love & Sentinel Admin Background OTA**: Fully aligned bundle routing for v3.5.52 ensuring silent, instant updates.
+- **🎨 Refined High-Craft UI (Unslopped)**: Calm typography, harmonic warm palettes, and tactile line icons across Referral, Play Store Crowdfunding, and Games Arcade surfaces.
 - **📱 System Notification Bar Playback Controls**: Native Android foreground media service with lock screen and notification shade controls (*Play, Pause, Next, Previous, Stop*).
-- **⏱️ Exact Playback Position Resume**: Seamless timestamp resume across app restarts and connection changes.
-- **❄️ Zero-Heating Thermal Optimization & Low Bandwidth**: 1px offscreen audio decoding, battery-efficient Wi-Fi lock release, and minimal mobile data usage.
 - **🔑 Direct Google OAuth Sign-In**: Connected native OAuth bridge via Chrome Custom Tabs for instant, seamless login.
 
 ---
@@ -78,18 +77,18 @@ This repository (`sonu-dops/PRISO-ad_free-music`) is a **dedicated public binary
 
 ## 🔒 Verification & VirusTotal Guarantee
 
-You can independently verify the cryptographic integrity and safety of `Priso-v3.5.51.apk` before installing:
+You can independently verify the cryptographic integrity and safety of `Priso-v3.5.52.apk` before installing:
 
 ### Verify Checksum Locally (PowerShell):
 ```powershell
-Get-FileHash -Algorithm SHA256 .\Priso-v3.5.51.apk
-# Must output: D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE
+Get-FileHash -Algorithm SHA256 .\Priso-v3.5.52.apk
+# Must output: 80DC5D31D3B82E7F9086D52D3339E8C111DF9457A954DD0F25A8ADDDEB6E4E0E
 ```
 
 ### Verify on Linux / macOS Terminal:
 ```bash
-sha256sum Priso-v3.5.51.apk
-# Must output: D9D6968868367C014FCD4BE00542B95A174AF737DDEFCDD905E532DDD647B1BE
+sha256sum Priso-v3.5.52.apk
+# Must output: 80dc5d31d3b82e7f9086d52d3339e8c111df9457a954dd0f25a8adddeb6e4e0e
 ```
 
 You can also drag-and-drop the file directly onto [VirusTotal.com](https://www.virustotal.com) to view the clean 0/70 detection report.
