@@ -1,13 +1,13 @@
 {
   "app": "love",
-  "version": "3.5.56",
-  "bundleFileName": "priso-bundle-love-3.5.56.zip",
-  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.56.zip",
-  "sizeBytes": 819858,
-  "checksum": "9690100c9fd7a2cc3eec9c8284c1fde87bacccd6f05a2a76d5002741ebd5b873",
-  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.56.zip",
+  "version": "3.5.57",
+  "bundleFileName": "priso-bundle-love-3.5.57.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.57.zip",
+  "sizeBytes": 823628,
+  "checksum": "b20696c877132f99e060418cd41d0ba507447daee225203b9fbae14a4d6bb65b",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.57.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.56: Dedicated Premium Sanctuary Hub (/premium), Advanced Settings Suite (Security & Stealth Mode), redesigned PlayStore fund banner, and enhanced vinyl couple jam music experience.",
-  "generatedAt": "2026-11-21T12:49:39.932Z"
+  "releaseNotes": "Priso Couples v3.5.57: Interactive Video Gestures (Kiss, Hug, Cry, Pulse) with fullscreen immersive animations and instant bidirectional response pills.",
+  "generatedAt": "2026-11-21T13:13:45.905Z"
 }
