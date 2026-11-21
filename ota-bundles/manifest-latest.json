@@ -3,11 +3,11 @@
   "version": "3.5.55",
   "bundleFileName": "priso-bundle-3.5.55.zip",
   "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.55.zip",
-  "sizeBytes": 813018,
-  "checksum": "c01d29eaca82f4bc3bfa1ecbffd6651a0dfcf3b26db7e262bf4373ddf4f1e1b1",
+  "sizeBytes": 819859,
+  "checksum": "bde84613e85315d3e7992d76997b9130f7e63ce91bd8fa9e965bb2fc74c6e0f6",
   "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.55.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
   "releaseNotes": "Priso Couples v3.5.55: Removed intrusive floating OTA update banner, reinforced 100% silent background updates, and secured HTTPS CDN downloads.",
-  "generatedAt": "2026-11-21T09:27:36.268Z"
+  "generatedAt": "2026-11-21T12:31:24.634Z"
 }
