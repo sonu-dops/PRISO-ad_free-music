@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.74",
+  "bundleFileName": "priso-bundle-3.5.74.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.74.zip",
+  "sizeBytes": 838325,
+  "checksum": "9076af3aa72945502a2b348d9088d8330a3133309d007d649bb5a34231d1959c",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.74.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.74: Interactive Video Gestures (Kiss, Hug, Cry, Pulse) with fullscreen immersive animations and instant bidirectional response pills.",
+  "generatedAt": "2026-11-23T06:34:05.567Z"
+}
