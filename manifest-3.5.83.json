@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.83",
+  "bundleFileName": "priso-bundle-3.5.83.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.83.zip",
+  "sizeBytes": 852942,
+  "checksum": "dbcbbe45cd59a73de3702edf80a09acb3a16d1616c2ebdc3694079099c90fe61",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.83.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.83: Authoritative partner online status across aliases & background, reliable message delivery without OTA sync storms, and solid opaque fixed white bottom bar.",
+  "generatedAt": "2026-11-25T19:23:25.322Z"
+}
