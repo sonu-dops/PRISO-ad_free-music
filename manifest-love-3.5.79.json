@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.79",
+  "bundleFileName": "priso-bundle-love-3.5.79.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.79.zip",
+  "sizeBytes": 847209,
+  "checksum": "694fced8b43ce2ef5f9ef151b26ba5e564de502355b795e5f1988b77bcc8c4ac",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.79.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.79: Unified Warm Ivory & Burgundy design, uncropped video calls, harmonized LoveBeats player, WCAG AA contrast & Android cutout fixes.",
+  "generatedAt": "2026-11-25T05:10:58.908Z"
+}

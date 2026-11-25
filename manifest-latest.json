@@ -1,13 +1,13 @@
 {
   "app": "love",
-  "version": "3.5.78",
-  "bundleFileName": "priso-bundle-3.5.78.zip",
-  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.78.zip",
-  "sizeBytes": 845691,
-  "checksum": "e4191c19988c59f26d100591db08c0e2010b9c4089b36520f856c16e452808d2",
-  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.78.zip",
+  "version": "3.5.79",
+  "bundleFileName": "priso-bundle-3.5.79.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.79.zip",
+  "sizeBytes": 847209,
+  "checksum": "694fced8b43ce2ef5f9ef151b26ba5e564de502355b795e5f1988b77bcc8c4ac",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.79.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.78: Interactive Video Gestures (Kiss, Hug, Cry, Pulse) with fullscreen immersive animations and instant bidirectional response pills.",
-  "generatedAt": "2026-11-24T10:52:16.190Z"
+  "releaseNotes": "Priso Couples v3.5.79: Unified Warm Ivory & Burgundy design, uncropped video calls, harmonized LoveBeats player, WCAG AA contrast & Android cutout fixes.",
+  "generatedAt": "2026-11-25T05:10:58.908Z"
 }
