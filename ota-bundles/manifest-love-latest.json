@@ -1,13 +1,13 @@
 {
   "app": "love",
-  "version": "3.5.80",
-  "bundleFileName": "priso-bundle-love-3.5.80.zip",
-  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.80.zip",
-  "sizeBytes": 849802,
-  "checksum": "a5059ecbfb3d282debcd77f215b1f73a580c7340199cdf7a5793038dce1d6f74",
-  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.80.zip",
+  "version": "3.5.81",
+  "bundleFileName": "priso-bundle-love-3.5.81.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.81.zip",
+  "sizeBytes": 851944,
+  "checksum": "34e6d7bd7b3c1df3623c879981ada7c839cfebbd8471ec1809456a22461340c3",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.81.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.80: True 9:16 normal camera preview (no 3:4 zoom crop), reliable Android camera launch across all devices, and camera recovery controls.",
-  "generatedAt": "2026-11-25T15:35:39.445Z"
+  "releaseNotes": "Priso Couples v3.5.81: Uncropped portrait 9:16 video call preview with auto-recovery (no landscape crop or zoom), safe-area call header, and Instagram/WhatsApp-smooth 60/120Hz chat & UI responsiveness.",
+  "generatedAt": "2026-11-25T17:37:16.650Z"
 }

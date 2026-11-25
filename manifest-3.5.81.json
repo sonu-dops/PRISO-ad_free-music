@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.81",
+  "bundleFileName": "priso-bundle-3.5.81.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.81.zip",
+  "sizeBytes": 851944,
+  "checksum": "34e6d7bd7b3c1df3623c879981ada7c839cfebbd8471ec1809456a22461340c3",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.81.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.81: Uncropped portrait 9:16 video call preview with auto-recovery (no landscape crop or zoom), safe-area call header, and Instagram/WhatsApp-smooth 60/120Hz chat & UI responsiveness.",
+  "generatedAt": "2026-11-25T17:37:16.650Z"
+}
