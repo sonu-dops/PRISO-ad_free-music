@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.82",
+  "bundleFileName": "priso-bundle-3.5.82.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.82.zip",
+  "sizeBytes": 852716,
+  "checksum": "d899ea202d8362b2236f2a92ea4b2f2dc5d06046d217a514e3e7675556a922b1",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.82.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.82: Resilient chat send retries & offline queue auto-delivery, solid opaque fixed white bottom navigation bar, and smooth chat UI.",
+  "generatedAt": "2026-11-25T18:47:51.665Z"
+}
