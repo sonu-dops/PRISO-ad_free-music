@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.84",
+  "bundleFileName": "priso-bundle-3.5.84.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.84.zip",
+  "sizeBytes": 849340,
+  "checksum": "41cd2826356fb16d4a3f65e92633f6c160d1344e2947fb999e68692fa5bfdef3",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.84.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.84: Removed Tap Heart & unwanted heartbeat alerts, locked solid white bottom nav against overscroll stretch, fixed navigation drawer UI, and instant incoming call notification dismissal on pickup.",
+  "generatedAt": "2026-11-26T07:41:30.100Z"
+}
