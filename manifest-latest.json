@@ -1,13 +1,13 @@
 {
   "app": "love",
-  "version": "3.5.84",
-  "bundleFileName": "priso-bundle-3.5.84.zip",
-  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.84.zip",
-  "sizeBytes": 849340,
-  "checksum": "41cd2826356fb16d4a3f65e92633f6c160d1344e2947fb999e68692fa5bfdef3",
-  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.84.zip",
+  "version": "3.5.85",
+  "bundleFileName": "priso-bundle-3.5.85.zip",
+  "bundlePath": "d:\\PRISO\\ota-bundles\\priso-bundle-3.5.85.zip",
+  "sizeBytes": 851045,
+  "checksum": "18e26b8d3c496efcdbf0eaf7dfb2eadf5de98f726af1ed2f5c3102c97fbef673",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.85.zip",
   "minNativeVersion": "1.0.0",
   "mandatory": true,
-  "releaseNotes": "Priso Couples v3.5.84: Removed Tap Heart & unwanted heartbeat alerts, locked solid white bottom nav against overscroll stretch, fixed navigation drawer UI, and instant incoming call notification dismissal on pickup.",
-  "generatedAt": "2026-11-26T07:41:30.100Z"
+  "releaseNotes": "Priso Couples v3.5.85: Fixed existing couple connections breaking after updates (instant online status & messaging recovery) and enabled native Android & WebView GPS location sharing.",
+  "generatedAt": "2026-11-26T11:55:43.415Z"
 }
