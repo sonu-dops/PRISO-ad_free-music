@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.86",
+  "bundleFileName": "priso-bundle-love-3.5.86.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-love-3.5.86.zip",
+  "sizeBytes": 852825,
+  "checksum": "91e8b9d7ce66d9f6191cbf419a5d252088a377069208b613f6dfc4d35eb199fc",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-love-3.5.86.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.86: Full cloud persistence & restore for chat history (all pages), shared canvas, games arcade, moods, and preferences across every login.",
+  "generatedAt": "2026-11-26T13:06:28.559Z"
+}
