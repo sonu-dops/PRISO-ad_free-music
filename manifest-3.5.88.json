@@ -1,0 +1,13 @@
+{
+  "app": "love",
+  "version": "3.5.88",
+  "bundleFileName": "priso-bundle-3.5.88.zip",
+  "bundlePath": "D:\\PRISO\\ota-bundles\\priso-bundle-3.5.88.zip",
+  "sizeBytes": 1381874,
+  "checksum": "dbf710b8e6289b476851347bc6c4edba282a95618f3a32f5f21bd9e5b720fe50",
+  "bundleUrl": "https://raw.githubusercontent.com/sonu-dops/PRISO-ad_free-music/main/priso-bundle-3.5.88.zip",
+  "minNativeVersion": "1.0.0",
+  "mandatory": true,
+  "releaseNotes": "Priso Couples v3.5.88: Updated referral & download page featuring free synchronized Co-Watch theater showcase, Love Beats lyrics preview, security details, and Android APK guide.",
+  "generatedAt": "2026-11-27T12:41:45.375Z"
+}
